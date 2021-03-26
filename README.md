@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConstantinDem
 - 👀 I’m interested in Brain Computer Interface Systems & medical apps as well as data science & AI
-- 🌱 I’m currently learning, working with Docker & Kubernetes, improving my Python Skills as backend ... and my Angular skills as frontend technology.
+- 🌱 I’m currently learning, how to build Docker Kubernetes-ready applications, improving my Python Skills as backend ... and my Angular skills as frontend technology.
 - 💞️ I’m looking to collaborate on some private software projects with friends such as WebCrawling. 
 - 📫 How to reach me ? You find me on Discord ("brainjoCons"), linkedIn or via Mail.
 
